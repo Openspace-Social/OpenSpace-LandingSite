@@ -6,8 +6,6 @@
   "repository": "https://github.com/creativetimofficial/vue-notus",
   "license": "MIT",
   "scripts": {
-    "ng": "set NODE_OPTIONS=--openssl-legacy-provider && ng",
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && ng serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build && gulp licenses",
     "lint": "vue-cli-service lint",
