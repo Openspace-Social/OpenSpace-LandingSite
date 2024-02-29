@@ -33,11 +33,25 @@
               </div>
               <button type="submit" class="bg-blue-600 py-2 px-4 rounded border-gray-400 shadow-sm text-gray-200 hover:text-white hover:bg-blue-800" >Send</button>
             </form>
+            <br>
+                <form name="contact" netlify>
+                  <p>
+                    <label>Name <input type="text" name="name" /></label>
+                  </p>
+                  <br>
+                  <p>
+                    <label>Email <input type="email" name="email" /></label>
+                  </p>
+                  <br>
+                  <p>
+                    <button type="submit">Send</button>
+                  </p>
+                </form>
+            <br>
             </div>
           </div>
         </div>
       </div>
-
       <img
         class="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860-px"
         :src="patternVue"
