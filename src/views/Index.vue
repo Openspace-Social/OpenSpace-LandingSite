@@ -340,36 +340,16 @@ So, seize the chance to make your mark within communities – The new digital ar
               <i class="fas fa-code-branch text-xl"></i>
             </div>
             <h3 class="text-3xl mb-2 font-semibold leading-normal text-white">
-              Open Source
+              Contribute to the project
             </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-400"
-            >
-              Since
-              <a
-                href="https://tailwindcss.com/?ref=creativetim"
-                class="text-blueGray-300"
-                target="_blank"
-              >
-                Tailwind CSS
-              </a>
-              is an open source project we wanted to continue this movement too.
-              You can give this version a try to feel the design and also test
-              the quality of the code!
+            <p class="text-white text-lg leading-relaxed mt-4 mb-4">
+                Openspace is in its infancy, and we can use all the help we can get. We need translators, UI developers, Testers, Back-end developers and more. Find out what exactly we are looking for, and how you can become part of the team by following the link below:
             </p>
-            <p
-              class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-400"
+            <router-link to="/contribute/contribute"
+                class="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
             >
-              Get it free on Github and please help us spread the news with a
-              Star!
-            </p>
-            <a
-              href="https://github.com/creativetimofficial/vue-notus?ref=vn-index"
-              target="_blank"
-              class="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-            >
-              Github Star
-            </a>
+                How to contribute
+            </router-link>
           </div>
 
           <div class="w-full md:w-4/12 px-4 mr-auto ml-auto mt-32 relative">
@@ -413,30 +393,12 @@ So, seize the chance to make your mark within communities – The new digital ar
               </span>
             </p>
             <h3 class="font-semibold text-3xl">
-              Do you love this Starter Kit?
+              Here is some of the feedback we&#39;ve received!
             </h3>
             <p class="text-blueGray-500 text-lg leading-relaxed mt-4 mb-4">
-              Cause if you do, it can be yours now. Hit the buttons below to
-              navigate to get the Free version for your next project. Build a
-              new web app or give an old project a new look!
+              Feedback goes here
             </p>
-            <div class="sm:block flex flex-col mt-10">
-              <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/vue/overview/notus?ref=vn-index"
-                target="_blank"
-                class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-              >
-                Get started
-              </a>
-              <a
-                href="https://github.com/creativetimofficial/vue-notus?ref=vn-index"
-                target="_blank"
-                class="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-              >
-                <i class="fab fa-github text-lg mr-1"></i>
-                <span>Help With a Star</span>
-              </a>
-            </div>
+
             <div class="text-center mt-16"></div>
           </div>
         </div>
