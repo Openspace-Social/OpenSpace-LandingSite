@@ -16,7 +16,7 @@
               <div class="text-sm text-gray-600 mb-6">
                 If you want to get in contact with us, fill out the details below along with a brief message and we will get back to you as soon as possible!
               </div>
-            <form id="contact_form">
+            <form id="contact_form" netlify>
               <div class="flex mb-5">
                   <div class="w-1/2 mr-2">
                     <label for="name_field" class="block text-sm text-gray-500">Name:</label>
