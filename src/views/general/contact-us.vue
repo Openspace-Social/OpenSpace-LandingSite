@@ -16,38 +16,27 @@
               <div class="text-sm text-gray-600 mb-6">
                 If you want to get in contact with us, fill out the details below along with a brief message and we will get back to you as soon as possible!
               </div>
-            <form id="contact_form" netlify>
-              <div class="flex mb-5">
-                  <div class="w-1/2 mr-2">
-                    <label for="name_field" class="block text-sm text-gray-500">Name:</label>
-                    <input label="name" class="rounded border-gray-400 w-full" type="text" name="first_name" id="name_field" />
-                  </div>
-                  <div class="w-1/2 mr-2">
-                    <label for="email_field" class="block text-sm text-gray-500">Email:</label>
-                    <input class="rounded border-gray-400 w-full" type="email" name="email" id="email_field" />
-                  </div>
-              </div>
-              <div class="mb-4">
-                <label for="message_field" class="block text-sm text-gray-500">Message:</label>
-                <textarea class="w-full rounded border-gray-400" name="message" id="message_field" rows="6"></textarea>
-              </div>
-              <button type="submit" class="bg-blue-600 py-2 px-4 rounded border-gray-400 shadow-sm text-gray-200 hover:text-white hover:bg-blue-800" >Send</button>
+            <form name="contact" method="POST" data-netlify="true">
+              <p>
+                <label>Your Name: <input type="text" name="name" /></label>
+              </p>
+              <p>
+                <label>Your Email: <input type="email" name="email" /></label>
+              </p>
+              <p>
+                <label>Your Role: <select name="role[]" multiple>
+                  <option value="leader">Leader</option>
+                  <option value="follower">Follower</option>
+                </select></label>
+              </p>
+              <p>
+                <label>Message: <textarea name="message"></textarea></label>
+              </p>
+              <p>
+                <button type="submit">Send</button>
+              </p>
             </form>
-            <br>
-                <form name="contact" netlify>
-                  <p>
-                    <label>Name <input type="text" name="name" /></label>
-                  </p>
-                  <br>
-                  <p>
-                    <label>Email <input type="email" name="email" /></label>
-                  </p>
-                  <br>
-                  <p>
-                    <button type="submit">Send</button>
-                  </p>
-                </form>
-            <br>
+
             </div>
           </div>
         </div>
