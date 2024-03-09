@@ -17,7 +17,7 @@
                 If you want to get in contact with us, fill out the details below along with a brief message and we will get back to you as soon as possible!
               </div>
 
-            <form action="openspace.social" method="POST" data-netlify="true">
+            <form action="/pages/success" method="POST" data-netlify="true">
                 <div class="fields">
                     <div class="field half">
                         <input type="text" name="name" id="name" placeholder="Name" />
