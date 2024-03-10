@@ -12,27 +12,10 @@
             <div class="p-4">
               <h2 class="font-semibold text-4xl text-blueGray-600">
               Contact Us
-            </h2>
+              </h2>
               <div class="text-sm text-gray-600 mb-6">
                 If you want to get in contact with us, fill out the details below along with a brief message and we will get back to you as soon as possible!
               </div>
-
-            <form name="contact" method="POST" data-netlify="true">
-              <p>
-                <label>Your Name: <input type="text" name="name" /></label>
-              </p>
-              <p>
-                <label>Your Email: <input type="email" name="email" /></label>
-              </p>
-              <p>
-                <label>Message: <textarea name="message"></textarea></label>
-              </p>
-              <p>
-                <button type="submit">Send</button>
-              </p>
-            </form>
-
-
             </div>
           </div>
         </div>
