@@ -2,6 +2,7 @@ import { createApp } from "vue";
 import { createWebHistory, createRouter } from "vue-router";
 
 
+
 // styles
 
 import "@fortawesome/fontawesome-free/css/all.min.css";
