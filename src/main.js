@@ -8,6 +8,7 @@ import { createWebHistory, createRouter } from "vue-router";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "@/assets/styles/tailwind.css";
 
+
 // mounting point for the whole app
 
 import App from "@/App.vue";

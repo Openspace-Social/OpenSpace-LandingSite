@@ -16,6 +16,34 @@
               <div class="text-sm text-gray-600 mb-6">
                 If you want to get in contact with us, fill out the details below along with a brief message and we will get back to you as soon as possible!
               </div>
+
+<form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+  <p hidden class="hidden">
+    <label>
+      Don’t fill this out if you’re human: <input name="bot-field" />
+    </label>
+  </p>
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>
+      Email: <input type="text" name="email" />
+    </label>
+  </p>
+  <p>
+    <label>
+      Message: <textarea name="message"></textarea>
+    </label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
+
+
+
             </div>
           </div>
         </div>
