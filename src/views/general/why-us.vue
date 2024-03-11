@@ -1,9 +1,7 @@
 <template>
   <div>
     <index-navbar />
-    <section
-      class="header relative pt-16 items-center flex h-screen max-h-860-px"
-    >
+    <section class="header relative pt-16 items-center flex h-screen max-h-860-px">
       <div class="container mx-auto items-center flex flex-wrap">
         <div class="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
           <div class="pt-32 sm:pt-0">
@@ -63,191 +61,190 @@
                 <br>
             </p>
 
-<div class="relative overflow-x-auto shadow-md sm:rounded-lg">
-    <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
-        <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
-            <tr>
-                <th scope="col" class="px-3 py-3 bg-gray-50 dark:bg-gray-800">
-                    Data Element
-                </th>
-                <th scope="col" class="px-6 py-3">
-                    Mainstream Social Media
-                </th>
-                <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
-                    Openspace.Social
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Full name
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-check text-danger"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Places you&#39;ve studied
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Places you&#39;ve worked
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Places you&#39;ve lived
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Email address
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-check"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Phone numbers
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Relationship Status
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Gender or Sexual Orientation
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Life events
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Activities within the platform
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Search history within the platform
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Ads you interacted with
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Credit card details
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Companies can upload your data to maintream platforms
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-            <tr class="border-b border-gray-200 dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Voice recordings and transcriptions
-                </th>
-                <td class="px-6 py-4">
-                    <i class="fa fa-check"></i>
-                </td>
-                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    <i class="fa fa-times"></i>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
+                <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+                    <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                            <tr>
+                                <th scope="col" class="px-3 py-3 bg-gray-50 dark:bg-gray-800">
+                                    Data Element
+                                </th>
+                                <th scope="col" class="px-6 py-3">
+                                    Mainstream Platforms
+                                </th>
+                                <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
+                                    Openspace.Social
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Full name
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-check text-danger"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Places you&#39;ve studied
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Places you&#39;ve worked
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Places you&#39;ve lived
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Email address
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Phone numbers
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Relationship Status
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Gender or Sexual Orientation
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Life events
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Activities within the platform
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Search history within the platform
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Ads you interacted with
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Credit card details
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Companies can upload your data to maintream platforms
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Voice recordings and transcriptions
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </div>
           </div>
       </div>

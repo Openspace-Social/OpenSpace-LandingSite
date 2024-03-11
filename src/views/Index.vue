@@ -5,8 +5,8 @@
       class="header relative pt-16 items-center flex h-screen max-h-860-px"
     >
       <div class="container mx-auto items-center flex flex-wrap">
-        <div class="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
-          <div class="pt-32 sm:pt-0">
+        <div class="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4"  style="z-index: 1">
+          <div class="pt-32 sm:pt-0" >
           <h3 class="text-3xl mb-2 font-semibold leading-normal text-indigo-600">
                 Hello,
                   <span class="typed-text">{{ typeValue }}</span>
@@ -59,6 +59,218 @@
           ></polygon>
         </svg>
       </div>
+
+      <div class="container mx-auto overflow-hidden pb-20">
+        <div class="flex flex-wrap items-center">
+          <div class="w-full md:w-10/12 px-12 md:px-4 ml-auto mr-auto mt-32">
+            <div
+                class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
+              >
+                <i class="fas fa-gavel text-xl"></i>
+            </div>
+            <h3 class="text-3xl mb-2 font-semibold leading-normal">
+              Why use alternative platforms such as Openspace.Social?
+            </h3>
+            <div class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600">
+            <p>
+                In an era where personal data has become a commodity, the staggering extent to which mainstream social media platforms capture and monetize your information is cause for concern. The list below represents just a glimpse into the vast troves of data they collect, ranging from your interests and behaviors to your connections and preferences.<br><br>
+                What sets Openspace.Social apart is the commitment to prioritizing user security. Unlike their mainstream counterparts, Openspace.Social does not exploit your data through collaborations with data brokers. The decision to entrust your personal information to a conglomerate, inevitably exposes you to the looming threat of data breaches.<br><br>
+
+                For more information on the implications of data breeches, please view this article: <a style="color: blue" href="https://nordvpn.com/blog/facebook-data-leak/">Data breach puts 500 million users at risk</a><br>
+                For more details on what mainstream platforms capture from you, please view this article: <a style="color: blue" href="https://nordvpn.com/blog/what-facebook-knows-about-me/">How much do they know about you?</a><br>
+                <br>
+            </p>
+
+                <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+                    <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                            <tr>
+                                <th scope="col" class="px-3 py-3 bg-gray-50 dark:bg-gray-800">
+                                    Data Element
+                                </th>
+                                <th scope="col" class="px-6 py-3">
+                                    Mainstream Platforms
+                                </th>
+                                <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
+                                    Openspace.Social
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Full name
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-check text-danger"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Places you&#39;ve studied
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Places you&#39;ve worked
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Places you&#39;ve lived
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Email address
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Phone numbers
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Relationship Status
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Gender or Sexual Orientation
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Life events
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Activities within the platform
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Search history within the platform
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Ads you interacted with
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Credit card details
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Companies can upload your data to maintream platforms
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Voice recordings and transcriptions
+                                </th>
+                                <td class="px-6 py-4">
+                                    <i class="fa fa-check"></i>
+                                </td>
+                                <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
+                                    <i class="fa fa-times"></i>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+
       <div class="container mx-auto">
         <div class="flex flex-wrap items-center">
           <div
@@ -169,6 +381,11 @@ So, seize the chance to make your mark within communities – The new digital ar
         </div>
       </div>
 
+
+
+
+
+
       <div class="container mx-auto overflow-hidden pb-20">
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-28">
@@ -202,7 +419,7 @@ So, seize the chance to make your mark within communities – The new digital ar
               <span
                 class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2"
               >
-                Whats Trending
+                Trending Posts
               </span>
               <span
                 class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2"
@@ -333,7 +550,7 @@ So, seize the chance to make your mark within communities – The new digital ar
     <section class="py-20 bg-blueGray-600 overflow-hidden">
       <div class="container mx-auto pb-64">
         <div class="flex flex-wrap justify-center">
-          <div class="w-full md:w-5/12 px-12 md:px-4 ml-auto mr-auto md:mt-64">
+          <div class="w-full md:w-5/12 px-12 md:px-4 ml-auto mr-auto md:mt-64"  style="z-index: 1;">
             <div
               class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
             >
