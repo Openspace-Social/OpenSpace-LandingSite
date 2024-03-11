@@ -39,6 +39,12 @@
       >
         Contact Us
       </router-link>
+      <router-link
+        to="/general/why-us"
+        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
+      >
+        Why Us
+      </router-link>
       <a
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
         href="https://www.buymeacoffee.com/openspace.social/posts"
