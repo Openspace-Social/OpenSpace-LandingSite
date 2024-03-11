@@ -56,9 +56,9 @@
             <div class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600">
             <p>
                 In an era where personal data has become a commodity, the staggering extent to which mainstream social media platforms capture and monetize your information is cause for concern. The list below represents just a glimpse into the vast troves of data they collect, ranging from your interests and behaviors to your connections and preferences.<br><br>
-                What sets Openspace.Social apart is the commitment to prioritizing user security. Unlike their mainstream counterparts, Openspace.Social does not exploit your data through targeted ads or collaborations with data brokers. The decision to entrust your personal information to a conglomerate inevitably exposes you to the looming threat of data breaches.<br><br>
+                What sets Openspace.Social apart is the commitment to prioritizing user security. Unlike their mainstream counterparts, Openspace.Social does not exploit your data through collaborations with data brokers. The decision to entrust your personal information to a conglomerate, inevitably exposes you to the looming threat of data breaches.<br><br>
 
-                For more implications of data breeches, please view this article: <a style="color: blue" href="https://nordvpn.com/blog/facebook-data-leak/">Data breach puts 500 million users at risk</a><br>
+                For more information on the implications of data breeches, please view this article: <a style="color: blue" href="https://nordvpn.com/blog/facebook-data-leak/">Data breach puts 500 million users at risk</a><br>
                 For more details on what mainstream platforms capture from you, please view this article: <a style="color: blue" href="https://nordvpn.com/blog/what-facebook-knows-about-me/">How much do they know about you?</a><br>
                 <br>
             </p>
@@ -68,7 +68,7 @@
         <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
             <tr>
                 <th scope="col" class="px-3 py-3 bg-gray-50 dark:bg-gray-800">
-                    Privacy Element
+                    Data Element
                 </th>
                 <th scope="col" class="px-6 py-3">
                     Mainstream Social Media
