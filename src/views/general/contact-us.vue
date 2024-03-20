@@ -16,34 +16,6 @@
               <div class="text-sm text-gray-600 mb-6">
                 If you want to get in contact with us, fill out the details below along with a brief message and we will get back to you as soon as possible!
               </div>
-
-<form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-  <p hidden class="hidden">
-    <label>
-      Don’t fill this out if you’re human: <input name="bot-field" />
-    </label>
-  </p>
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>
-      Email: <input type="text" name="email" />
-    </label>
-  </p>
-  <p>
-    <label>
-      Message: <textarea name="message"></textarea>
-    </label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-
-
-
-
             </div>
           </div>
         </div>
@@ -56,6 +28,95 @@
       <a href="https://www.buymeacoffee.com/openspace.social" target="_blank" class="md:absolute bottom-0 right-0 p-4 float-right animate-bounce" style="z-index: 1; position:fixed;">
       <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="Buy Me A Coffee" class="transition-all rounded-full w-14 -rotate-45 hover:shadow-sm shadow-lg ring hover:ring-4 ring-white">
 </a>
+    </section>
+    <section>
+
+      <div class="container mx-auto overflow-hidden pb-20">
+        <div class="flex flex-wrap items-center">
+          <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-28">
+
+            <!-- component -->
+            <div class="flex items-center justify-center p-12">
+              <div class="mx-auto w-full max-w-[550px]">
+                <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                  <p hidden class="hidden">
+                    <label>
+                      Don’t fill this out if you’re human: <input name="bot-field" />
+                    </label>
+                  </p>
+                  <div class="mb-5">
+                    <label
+                      for="name"
+                      class="mb-3 block text-base font-medium text-[#07074D]"
+                    >
+                      Full Name
+                    </label>
+                    <input
+                      type="text"
+                      name="name"
+                      id="name"
+                      placeholder="Full Name"
+                      class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+                    />
+                  </div>
+                  <div class="mb-5">
+                    <label
+                      for="email"
+                      class="mb-3 block text-base font-medium text-[#07074D]"
+                    >
+                      Email Address
+                    </label>
+                    <input
+                      type="email"
+                      name="email"
+                      id="email"
+                      placeholder="example@domain.com"
+                      class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+                    />
+                  </div>
+                  <div class="mb-5">
+                    <label
+                      for="subject"
+                      class="mb-3 block text-base font-medium text-[#07074D]"
+                    >
+                      Subject
+                    </label>
+                    <input
+                      type="text"
+                      name="subject"
+                      id="subject"
+                      placeholder="Enter your subject"
+                      class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+                    />
+                  </div>
+                  <div class="mb-5">
+                    <label
+                      for="message"
+                      class="mb-3 block text-base font-medium text-[#07074D]"
+                    >
+                      Message
+                    </label>
+                    <textarea
+                      rows="4"
+                      name="message"
+                      id="message"
+                      placeholder="Type your message"
+                      class="w-full resize-none rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"
+                    ></textarea>
+                  </div>
+                  <div>
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
+                        SEND
+                    </button>
+                  </div>
+                </form>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
     </section>
     <footer-component />
   </div>

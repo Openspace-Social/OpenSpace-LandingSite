@@ -471,6 +471,8 @@ So, seize the chance to make your mark within communities – The new digital ar
           </div>
         </div>
       </div>
+
+
       <div class="justify-center text-center flex flex-wrap mt-24">
         <div class="w-full md:w-6/12 px-12 md:px-4">
           <h2 class="font-semibold text-4xl">Check out the UI for yourself, you won&#39;t be disappointed!</h2>
