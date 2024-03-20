@@ -21,6 +21,7 @@
     "core-js": "3.9.1",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
+    "prerender-spa-plugin": "^3.4.0",
     "tailwindcss": "2.0.4",
     "vue": "3.0.7",
     "vue-carousel-3d": "^1.0.1",
