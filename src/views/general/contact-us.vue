@@ -35,36 +35,10 @@
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-28">
 
-          <form
-  name="contact"
-  method="POST"
-  netlify-honeypot="bot-field"
-  data-netlify="true"
->
-  <p class="hidden">
-    <label>
-      Don’t fill this out if you’re human: <input name="bot-field" />
-    </label>
-  </p>
-  <p>
-    <label>
-      Email: <input type="text" name="email" />
-    </label>
-  </p>
-  <p>
-    <label>
-      Message: <textarea name="message"></textarea>
-    </label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-
             <!-- component -->
             <div class="flex items-center justify-center p-12">
               <div class="mx-auto w-full max-w-[550px]">
-                <form name="Contact-Us" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                <form name="Contact-Us" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/">
                     <input type="hidden" name="form-name" value="Contact-Us" />
                   <p hidden class="hidden">
                     <label>
