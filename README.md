@@ -15,7 +15,7 @@ It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/
 Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
 If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
 
-### Get Started
+### Get Started  
 
 - Install NodeJS **LTS** version from <a href="https://nodejs.org/en/?ref=creativetim">NodeJs Official Page</a>
 - Download the product on this page
