@@ -40,7 +40,8 @@
               <div class="mx-auto w-full max-w-[550px]">
                 <form name="Contact-Us" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/general/thanks/">
                     <input type="hidden" name="form-name" value="Contact-Us" />
-                  <p hidden class="hidden">
+                    <input type="hidden" name="subject" value="Email inquiry from Openspace.Social" />
+                    <p hidden class="hidden">
                     <label>
                       Don’t fill this out if you’re human: <input name="bot-field" />
                     </label>
