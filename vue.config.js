@@ -6,7 +6,7 @@ module.exports = {
       plugins: [
         new PrerenderSPAPlugin({
           // Required - Routes to render.
-          routes: [ '/', '/general/contact-us/', '/general/about-us/'  ],
+          routes: [ '/', '/general/contact-us/', '/general/about-us/', '/general/thanks'  ],
         })
       ]
     }
