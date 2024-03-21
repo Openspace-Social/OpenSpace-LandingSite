@@ -56,7 +56,7 @@ const routes = [
     component: Contact,
   },
   {
-    path: "/general/thank-you",
+    path: "/general/thanks",
     name: 'Thanks',
     component: Thanks,
   },
