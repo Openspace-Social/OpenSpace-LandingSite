@@ -20,7 +20,7 @@ import Index from "@/views/Index.vue";
 //
 import About from "@/views/general/about-us.vue";
 import Contact from "@/views/general/contact-us.vue";
-import Thanks from "@/views/general/thank-you.vue";
+import Thanks from "@/views/general/thanks.vue";
 import Why from "@/views/general/why-us.vue";
 
 import Terms from "@/views/general/terms-of-service.vue";
