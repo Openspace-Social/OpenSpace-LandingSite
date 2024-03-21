@@ -38,7 +38,7 @@
             <!-- component -->
             <div class="flex items-center justify-center p-12">
               <div class="mx-auto w-full max-w-[550px]">
-                <form name="Contact-Us" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/">
+                <form name="Contact-Us" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/general/thank-you/">
                     <input type="hidden" name="form-name" value="Contact-Us" />
                   <p hidden class="hidden">
                     <label>
