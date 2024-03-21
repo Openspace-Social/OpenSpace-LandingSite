@@ -64,30 +64,6 @@
       >
         Whats next
       </router-link>
-      <router-link
-        to="/roadmap/os-support"
-        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-      >
-        Support Documentation
-      </router-link>
-      <div class="h-0 mx-4 my-2 border border-solid border-blueGray-100" />
-      <span
-        class="text-sm pt-2 pb-0 px-4 font-bold block w-full whitespace-nowrap bg-transparent text-blueGray-400"
-      >
-        Support Us
-      </span>
-      <router-link
-        to="/contribute/contribute"
-        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-      >
-        How to contribute
-      </router-link>
-      <router-link
-        to="/contribute/donate"
-        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-      >
-        Donations
-      </router-link>
     </div>
   </div>
 </template>

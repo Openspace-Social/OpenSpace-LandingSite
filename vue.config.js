@@ -12,10 +12,7 @@ module.exports = {
             '/general/about-us/',
             '/general/thanks/',
             '/general/why-us/',
-            '/roadmap/whats-next/',
-            '/roadmap/os-support/',
-            '/contribute/contribute/',
-            '/contribute/donate/'
+            '/roadmap/whats-next/'
           ],
         })
       ]
