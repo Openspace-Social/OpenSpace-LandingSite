@@ -6,7 +6,17 @@ module.exports = {
       plugins: [
         new PrerenderSPAPlugin({
           // Required - Routes to render.
-          routes: [ '/', '/general/contact-us/', '/general/about-us/', '/general/thanks'  ],
+          routes: [
+            '/',
+            '/general/contact-us/',
+            '/general/about-us/',
+            '/general/thanks/',
+            '/general/why-us/',
+            '/roadmap/whats-next/',
+            '/roadmap/os-support/',
+            '/contribute/contribute/',
+            '/contribute/donate/'
+          ],
         })
       ]
     }
