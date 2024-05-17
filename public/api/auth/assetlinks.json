@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "social.openspace.app",
+      "sha256_cert_fingerprints": [
+        "46:7B:76:76:BC:5B:35:E7:27:56:E6:18:65:CB:81:ED:76:58:B3:65:E1:57:09:62:B7:EA:5C:88:73:3D:90:C7"
+      ]
+    }
+  }
+]

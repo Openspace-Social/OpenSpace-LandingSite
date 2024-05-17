@@ -45,12 +45,19 @@
       >
         Why Us
       </router-link>
-      <a
+      <router-link
+        to="/general/blog"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-        href="https://www.buymeacoffee.com/openspace.social/posts"
       >
         Blog
-      </a>
+      </router-link>
+      <router-link
+        to="/general/documentation"
+        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
+      >
+        FAQ - How To Use Openspace
+      </router-link>
+
       <div class="h-0 mx-4 my-2 border border-solid border-blueGray-100" />
 
       <span

@@ -29,8 +29,7 @@
     <section class="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
       <div
         class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
-        style="transform: translateZ(0);"
-      >
+        style="transform: translateZ(0);">
         <svg
           class="absolute bottom-0 overflow-hidden"
           xmlns="http://www.w3.org/2000/svg"
@@ -60,7 +59,7 @@
                 </h3>
                 <div class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600">
                 <p>
-                    Something goes here
+
                 </p>
 
                     <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
@@ -76,9 +75,9 @@
                                     <div class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
                                 </div>
                                 <div class="mt-3 sm:pe-8">
-                                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Flowbite Library v1.0.0</h3>
-                                    <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 2, 2021</time>
-                                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
+                                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Web Application - WIP</h3>
+                                    <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released in March 2024</time>
+                                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Ability to post content to your community and followers. Support for Themes and Password Reset Functionality.</p>
                                 </div>
                             </li>
                             <li class="relative mb-6 sm:mb-0">
@@ -91,9 +90,9 @@
                                     <div class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
                                 </div>
                                 <div class="mt-3 sm:pe-8">
-                                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Flowbite Library v1.2.0</h3>
-                                    <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 23, 2021</time>
-                                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
+                                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Text Markup and Support for large posts</h3>
+                                    <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">To Be Release, May 2024</time>
+                                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Allow large posts to be edited and marked up by authors in a blog format</p>
                                 </div>
                             </li>
                             <li class="relative mb-6 sm:mb-0">
@@ -106,9 +105,9 @@
                                     <div class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
                                 </div>
                                 <div class="mt-3 sm:pe-8">
-                                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Flowbite Library v1.3.0</h3>
-                                    <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on January 5, 2022</time>
-                                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
+                                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Expansion to continue</h3>
+                                    <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Hit 200+ users by June 2024</time>
+                                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Continue onboarding more users to the platform to help spread the word!</p>
                                 </div>
                             </li>
                         </ol>
