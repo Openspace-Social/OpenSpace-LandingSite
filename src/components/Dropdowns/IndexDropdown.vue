@@ -37,7 +37,7 @@
         to="/general/contact-us"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
       >
-        Contact Us
+        Sign-up / Contact Us
       </router-link>
       <router-link
         to="/general/why-us"
@@ -45,18 +45,7 @@
       >
         Why Us
       </router-link>
-      <router-link
-        to="/general/blog"
-        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-      >
-        Blog
-      </router-link>
-      <router-link
-        to="/general/documentation"
-        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-      >
-        FAQ - How To Use Openspace
-      </router-link>
+
 
       <div class="h-0 mx-4 my-2 border border-solid border-blueGray-100" />
 
