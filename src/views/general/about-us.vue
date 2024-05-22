@@ -54,11 +54,11 @@
               About Openspace.Social
             </h3>
                 <p>
-                    Openspace.Social is a revolutionary social network platform designed to provide users with a refreshing alternative to mainstream platforms like Instagram and Facebook.
+                    Openspace.Social is a revolutionary social network platform designed to provide users with a refreshing alternative to mainstream platforms.
                 </p>
             <div class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600">
                 <p>
-                    Openspace.Social is a revolutionary social network platform designed to provide users with a refreshing alternative to mainstream platforms like Instagram and Facebook. What sets Openspace.Social apart is its unwavering commitment to fostering genuine community connections while prioritizing user privacy.
+                    Openspace.Social is a revolutionary social network platform designed to provide users with a refreshing alternative to mainstream platforms. What sets Openspace.Social apart is its unwavering commitment to fostering genuine community connections while prioritizing user privacy.
                 </p><br>
                 <p>
                     In an era where privacy concerns are paramount, Openspace.Social takes a proactive approach to safeguarding user data. The platform employs robust privacy features, ensuring that users have control over their personal information and who can access it. This emphasis on privacy creates a space where individuals can express themselves freely without the fear of intrusive data practices.
