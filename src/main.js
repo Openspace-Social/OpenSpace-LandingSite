@@ -23,7 +23,6 @@ import Contact from "@/views/general/contact-us.vue";
 import Thanks from "@/views/general/thanks.vue";
 import Why from "@/views/general/why-us.vue";
 import Blog from "@/views/general/blog.vue";
-import Docs from "@/views/general/documentation.vue";
 
 
 import Terms from "@/views/general/terms-of-service.vue";
@@ -72,11 +71,6 @@ const routes = [
     path: "/general/blog",
     name: 'Blog',
     component: Blog,
-  },
-  {
-    path: "/general/documentation",
-    name: 'Docs',
-    component: Docs,
   },
   {
     path: "/general/terms-of-service",
