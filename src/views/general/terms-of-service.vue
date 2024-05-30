@@ -46,448 +46,80 @@
       <div class="container mx-auto overflow-hidden pb-20">
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-10/12 px-12 md:px-4 ml-auto mr-auto mt-48">
-          <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              Table Of Contents
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                <ul class="list-decimal text-lg font-light leading-relaxed m-8 text-blueGray-600">
-                  <li>AGREEMENT TO TERMS</li>
-                  <li>INTELLECTUAL PROPERTY</li>
-                  <li>USER REPRESENTATIONS</li>
-                  <li>USER REGISTRATION</li>
-                  <li>SERVICES</li>
-                  <li>PURCHASES AND PAYMENT</li>
-                  <li>REFUNDS POLICY</li>
-                  <li>PROHIBITED ACTIVITIES</li>
-                  <li>USER GENERATED CONTRIBUTIONS</li>
-                  <li>CONTRIBUTION LICENSE</li>
-                  <li>SUBMISSIONS</li>
-                  <li>SITE MANAGEMENT</li>
-                  <li>PRIVACY POLICY</li>
-                  <li>COPYRIGHT INFRINGEMENTS</li>
-                  <li>TERM AND TERMINATION</li>
-                  <li>MODIFICATIONS AND INTERRUPTIONS</li>
-                  <li>GOVERNING LAW</li>
-                  <li>DISPUTE RESOLUTION</li>
-                  <li>CORRECTIONS</li>
-                  <li>DISCLAIMER</li>
-                  <li>LIMITATIONS OF LIABILITY</li>
-                  <li>INDEMNIFICATION</li>
-                  <li>USER DATA</li>
-                  <li>ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES</li>
-                  <li>CALIFORNIA USERS AND RESIDENTS</li>
-                  <li>MISCELLANEOUS</li>
-                  <li>CONTACT US</li>
-                </ul>
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              1. AGREEMENT TO TERMS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-              These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Openspace (“Company”, “we”, “us”, or “our”), concerning your access to and use of the Openspace.Social website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). The Site provides an online marketplace for the following goods, products, and/or services: Hosting Services (the “Services”). In order to help make the Site a secure environment for the purchase and sale of Services, all users are required to accept and comply with these Terms of Use, including the Acceptable Use Policy posted on the Site, which are incorporated into these Terms of Use. You agree that by accessing the Site and/or the Services, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND/OR THE Services AND YOU MUST DISCONTINUE USE IMMEDIATELY. Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use from time to time. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our Site so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted. The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. The Site is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Site. You may not use the Site in a way that would violate the Gramm-Leach-Bliley Act (GLBA). The Site is intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms of Use prior to you using the Site.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              2. INTELLECTUAL PROPERTY RIGHTS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                Unless otherwise indicated, the Site and the Services are our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, international copyright laws, and international conventions. The Content and the Marks are provided on the Site “AS IS” for your information and personal use only. Except as expressly provided in these Terms of Use, no part of the Site or the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission. Provided that you are eligible to use the Site, you are granted a limited license to access and use the Site and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Site, the Content and the Marks.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              3. USER REPRESENTATIONS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                By using the Site or the Services, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Terms of Use; (4) you are not under the age of 13; (5) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Site; (6) you will not access the Site or the Services through automated or non-human means, whether through a bot, script or otherwise; (7) you will not use the Site for any illegal or unauthorized purpose; and (8) your use of the Site or the Services will not violate any applicable law or regulation. If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof). You may not use the Site or the Services for any illegal or unauthorized purpose nor may you, in the use of Services, violate any laws. Among unauthorized Services are the following: intoxicants of any sort; illegal drugs or other illegal products; alcoholic beverages; games of chance; and pornography or graphic adult content, images, or other adult products. Postings of any unauthorized products or content may result in immediate termination of your account and a lifetime ban from use of the Site. We are a service provider and make no representations as to the safety, effectiveness, adequacy, accuracy, availability, prices, ratings, reviews, or legality of any of the information contained on the Site or the Marketplace Offerings displayed or offered through the Site. You understand and agree that the content of the Site does not contain or constitute representations to be reasonably relied upon, and you agree to hold us harmless from any errors, omissions, or misrepresentations contained within the Site’s content. We do not endorse or recommend any Services and the Site is provided for informational and advertising purposes only.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              4. USER REGISTRATION
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                You may be required to register with the Site in order to access the Services. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              5. SERVICES
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                All Services are subject to availability, and we cannot guarantee that Marketplace Offerings will be in stock. Certain Services may be available exclusively online through the Site. Such Services may have limited quantities and are subject to return or exchange only according to our Return Policy. We reserve the right to limit the quantities of the Services offered or available on the Site. All descriptions or pricing of the Services are subject to change at any time without notice, at our sole discretion. We reserve the right to discontinue any Services at any time for any reason. We do not warrant that the quality of any of the Services purchased by you will meet your expectations or that any errors in the Site will be corrected.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              6. PURCHASES AND PAYMENT
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                We accept the following forms of payment: – Cash – Stripe (Credit Cards and Others) You agree to provide current, complete, and accurate purchase and account information for all purchases of the Services made via the Site. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in U.S. dollars. You agree to pay all charges at the prices then in effect for your purchases and any applicable shipping fees, and you authorize us to charge your chosen payment provider for any such amounts upon placing your order. If your order is subject to recurring charges, then you consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until such time as you cancel the applicable order. We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment. We reserve the right to refuse any order placed through the Site. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              7. REFUNDS POLICY
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                We do not offer refunds for any of the Service/Services. All sales are final. No refunds will be issued.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              8. PROHIBITED ACTIVITIES
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us. As a user of the Site, you agree not to:
-            </p>
-            <p>
-            <ul class="list-disc text-lg font-light leading-relaxed m-8 text-blueGray-600">
-              <li>Systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.</li>
-              <li>Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.</li>
-              <li>Attempt to sell, buy or trade any accounts or realted data.</li>
-              <li>Circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.</li>
-              <li>Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.</li>
-              <li>Use any information obtained from the Site in order to harass, abuse, or harm another person. Make improper use of our support services or submit false reports of abuse or misconduct.</li>
-              <li>Use the Site in a manner inconsistent with any applicable laws or regulations.</li>
-              <li>Engage in unauthorized framing of or linking to the Site.</li>
-              <li>Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Marketplace Offerings.</li>
-              <li>Engage in unauthorized automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.</li>
-              <li>Delete the copyright or other proprietary rights notice from any Content.</li>
-              <li>Attempt to impersonate another user or person or use the username of another user.</li>
-              <li>Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).</li>
-              <li>Interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.</li>
-              <li>Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.</li>
-              <li>Attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.</li>
-              <li>Copy or adapt the Site’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.</li>
-              <li>Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site. Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.</li>
-              <li>Use a buying agent or purchasing agent to make purchases on the Site.</li>
-              <li>Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.</li>
-              <li>Use the Services as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.</li>
-              <li>Break any site rules as found <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold text-lg" href="/general/community-guidelines">HERE</a>.</li>
-              <li>Illegal Activities</li>
-            </ul>
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              9. USER GENERATED CONTRIBUTIONS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, “Contributions”). Contributions may be viewable by other users of the Site and the Marketplace Offerings and through third-party websites. As such, any Contributions you transmit may be treated as nonconfidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
-            </p>
-            <p>
-            <ul class="list-disc text-lg font-light leading-relaxed m-8 text-blueGray-600">
-              <li>The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.</li>
-              <li>You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms of Use.</li>
-              <li>You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms of Use.</li>
-              <li>Your Contributions are not false, inaccurate, or misleading.</li>
-              <li>Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.</li>
-              <li>Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).</li>
-              <li>Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.</li>
-              <li>Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.</li>
-              <li>Your Contributions do not violate any applicable law, regulation, or rule</li>
-              <li>Your Contributions do not violate the privacy or publicity rights of any third party.</li>
-              <li>Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.</li>
-              <li>Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.</li>
-              <li>Your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Use, or any applicable law or regulation.</li>
-            </ul>
-            </p>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                Any use of the Site or the Services in violation of the foregoing violates these Terms of Use and may result in, among other things, termination or suspension of your rights to use the Site and the Marketplace Offerings.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              10. CONTRIBUTION LICENSE
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                By posting your Contributions to any part of the Site, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels. This license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide. You waive all moral rights in your Contributions, and you warrant that moral rights have not otherwise been asserted in your Contributions. We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site. You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions. We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Site; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              11. SUBMISSIONS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site or the Services (“Submissions”) provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you. You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              12. SITE MANAGEMENT
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                We reserve the right, but not the obligation, to: (1) monitor the Site for violations of these Terms of Use; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site and the Services.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              13. PRIVACY POLICY
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                We care about data privacy and security. Please review our Privacy Policy: <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold text-lg" href="/general/privacy-policy">HERE</a>.<br><br>
-                By using the Site or the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Site and the Services are hosted in the United States. If you access the Site or the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              14. COPYRIGHT INFRINGEMENTS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a “Notification”). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification. Please be advised that pursuant to applicable law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Site infringes your copyright, you should consider first contacting an attorney.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              15. TERM AND TERMINATION
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                These Terms of Use shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE AND THE Services (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE AND THE Services OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION. If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              16. MODIFICATIONS AND INTERRUPTIONS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Services without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site or the Services. We cannot guarantee the Site and the Services will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site or the Services at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site or the Services during any downtime or discontinuance of the Site or the Services. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Site or the Services or to supply any corrections, updates, or releases in connection therewith.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              17. GOVERNING LAW
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                These Terms of Use and your use of the Site and the Services are governed by and construed in accordance with the laws of the State of Florida applicable to agreements made and to be entirely performed within the State of Florida, without regard to its conflict of law principles.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              18. DISPUTE RESOLUTION
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                Informal Negotiations To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms of Use (each “Dispute” and collectively, the “Disputes”) brought by either you or us (individually, a “Party” and collectively, the “Parties”), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least 30 days before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party. Binding Arbitration If the Parties are unable to resolve a Dispute through informal negotiations, the Dispute (except those Disputes expressly excluded below) will be finally and exclusively resolved through binding arbitration. YOU UNDERSTAND THAT WITHOUT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The arbitration shall be commenced and conducted under the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) and, where appropriate, the AAA’s Supplementary Procedures for Consumer Related Disputes (“AAA Consumer Rules”), both of which are available at the AAA website: www.adr.org. Your arbitration fees and your share of arbitrator compensation shall be governed by the AAA Consumer Rules and, where appropriate, limited by the AAA Consumer Rules. The arbitration may be conducted in person, through the submission of documents, by phone, or online. The arbitrator will make a decision in writing, but need not provide a statement of reasons unless requested by either Party. The arbitrator must follow applicable law, and any award may be challenged if the arbitrator fails to do so. Except where otherwise required by the applicable AAA rules or applicable law, the arbitration will take place in Miami,Florida. Except as otherwise provided herein, the Parties may litigate in court to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator. If for any reason, a Dispute proceeds in court rather than arbitration, the Dispute shall be commenced or prosecuted in the state and federal courts located in Southern District of Florida, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction, and forum non conveniens with respect to venue and jurisdiction in such state and federal courts. Application of the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transaction Act (UCITA) is excluded from these Terms of Use. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable, and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court. Restrictions The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a classaction basis or to utilize class action procedures; and (c) there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons. Exceptions to Informal Negotiations and Arbitration The Parties agree that the following Disputes are not subject to the above provisions concerning informal negotiations and binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              19. CORRECTIONS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                There may be information on the Site that contains typographical errors, inaccuracies, or omissions that may relate to the Services, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              20. DISCLAIMER
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                THE SITE AND THE Services ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND THE Services AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE OR THE Services, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              21. LIMITATION OF LIABILITY
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE OR THE Services, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO $0.00 USD. CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              22. INDEMNIFICATION
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) your Contributions; (2) use of the Services; (3) breach of these Terms of Use; (4) any breach of your representations and warranties set forth in these Terms of Use; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Site or the Services with whom you connected via the Site. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              23. USER DATA
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                We will maintain certain data that you transmit to the Site for the purpose of managing the performance of the Services, as well as data relating to your use of the Services. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Services. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
-            </p>
-             <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              24. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              25. CALIFORNIA USERS AND RESIDENTS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              26. MISCELLANEOUS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                These Terms of Use and any policies or operating rules posted by us on the Site or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Services. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
-            </p>
-            <div
-              class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-            >
-              <i class="fas fa-gavel text-xl"></i>
-            </div>
-            <h3 class="text-3xl mb-2 font-semibold leading-normal">
-              27. MISCELLANEOUS
-            </h3>
-            <p
-              class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600"
-            >
-                In order to resolve a complaint regarding the Site or the Services or to receive further information regarding use of the Site or the Services, please contact us using our contact page: <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold text-lg" href="/general/contact-us">HERE</a>.<br><br>
-            </p>
+
+<p>👩‍⚖️ Terms of Use</p>
+<p>1. General
+These Terms of Use govern the downloading and use of Openspace.Social on any of its users' devices (computer, laptop, tablet, and other similar devices). These Terms of Use will also apply to every software update and may be amended in the future.
+If users do not agree with any of the terms laid down below, they will not be able to avail of any of the services offered by Openspace.Social.
+</p>
+<p>
+2. Our Service
+Openspace.Social offers you a platform where you can share your content with other members of the platform. You can join and discover several communities and make friends in a friendly and safe environment.
+Our services are offered to all users equally, as the platform is built to be secure by design and makes no use of algorithms favouring any user. We strongly believe in embracing diversity and polite and respectful behaviour. Therefore, our community-crafted guidelines will set the right foundation to foster an ethical, social network.
+</p>
+<p>
+3. Using Openspace.Social
+Openspace.Social requires users to be sixteen (16) years of age or over in order to use our services. When making an account, prospective users are obliged to be truthful and disclose accurate information.
+After making an Openspace.Social account, users are granted a license to download and use the software.
+</p>
+<p>
+4. Your Content
+We don't claim ownership over any content that you post on Openspace.Social. "Content" means any content that you're able to upload or post on Openspace.Social, including text, images, files, animations, logos, or comments. However, when you post or transfer content to Openspace.Social, you give us a non-exclusive, royalty-free, worldwide, perpetual, transferable license to use, store, reproduce, adapt (so we can properly post your content), distribute, and publicly display your content in order to make it accessible through Openspace.Social.
+We reserve the right to remove any user content that we believe violates any copyrights, and any of our Terms and Conditions, including our Licence Agreement and the Community Guidelines.
+</p>
+<p>
+5. Copyright Policy
+Openspace.Social complies with the Canadian Copyright Act. We will terminate copyright infringers when legally required or appropriate.
+If you see your content on Openspace.Social being used without your permission, you can contact Openspace.Social's Designated Agent for receipt of infringement notices here:
+Emailing admin@Openspacelive.com.
+</p>
+<p>
+6. Security
+At Openspace.Social, we do our best to make our platform as secure as possible. However, given our background in information security, we recognize that there is no such thing as a fully secure platform given the ever-growing list of digital and physical attack vectors. We cannot guarantee that our services will not be interrupted. Openspace.Social users are solely responsible for their account information, which is why we ask users to keep their passwords secure and limit the amount of personal information disclosed on Openspace.Social.
+Users are also obliged to notify us of any compromises to security or any unauthorized use of Openspace.Social accounts. Any incidents or suspicions of unauthorized use of Openspace.Social accounts and security breaches are to be reported to admin@Openspacelive.com.
+</p>
+<p>
+7. Third-Party Links
+Openspace.Social threads may contain links to websites that are not owned by Openspace.Social. These include links posted by our affiliates, partners, and other users. These links are not owned or controlled by Openspace.Social.
+Openspace.Social assumes no responsibility for any of the damages that arise out of or in connection to users entering these websites. It is at the user's discretion to enter these websites, and they should be aware of any risks and take the necessary precautions while doing so. Any complaints regarding these third-party links should be directed to the third party.
+</p>
+<p>
+8. Termination
+Openspace.Social may terminate or suspend your license at any time with or without cause and notification. Terminations of license are especially carried out in the following cases:
+•	Violations of the Openspace.Social Community Guidelines
+•	If users are found to use Openspace.Social (accounts) to facilitate illegal activities
+•	If users are found to violate any laws
+•	Violations of copyrights and other relevant intellectual property rights
+It is important to note that some of the terms in these Terms of Use may still be valid even after termination has been carried out by any party. This includes, but is not limited to, the copyright policy, the Limitation of Liability clause (Term 10), and the arbitration clause (Term 11). It is, therefore, the user's responsibility to be informed of which terms will still be valid.
+</p>
+<p>
+9. Disclaimers
+Openspace.Social takes no responsibility and assumes no liability for any user content and any incidents that arise out of such content, especially if the content is defamatory, offensive, libelous, abusive, obscene, or otherwise unlawful or harmful in nature.
+</p>
+<p>
+10. Limitation of Liability
+Openspace.Social shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits/revenues whether incurred directly or indirectly, loss of data, or any similar damages.
+</p>
+<p>
+11. Arbitration Clause
+In cases of any disputes that arise in relation to the use of Openspace.Social, users shall agree to immediately inform Openspace.Social of these issues by contacting our legal representative at admin@Openspacelive.com. These disputes will first be resolved informally through arbitration. This arbitration procedure will be carried out in Canada and will be governed by the Arbitration Act of the respective province.
+Arbitration is an alternative to court proceedings and awards decided during an arbitration proceeding will be legally binding and enforceable in court.
+This arbitration provision shall survive terminations of license, Openspace.Social accounts, and any other User Agreements.
+</p>
+<p>
+12. Governing Law and Jurisdiction
+These Terms of Use shall be governed by the laws of Canada.
+</p>
+<p>
+13. Changes, Amendments, or Replacement of Any Terms
+Users will be notified when there is a change, amendment, or replacement of these Terms of Use. Continued use of Openspace.Social after these changes have been made constitutes acceptance of the changes made. If users do not agree with any of the Terms of Use above, they are no longer able to access Openspace.Social or avail of any of our services.
+</p>
+<p>
+14. No Waiver
+Openspace.Social’s failure to assert any right or provision under the abovementioned Terms shall not constitute a waiver.
+Nor shall the failure of a license holder or any other relevant party to enforce any of the terms or conditions of this Agreement constitute a waiver of any such terms or conditions, or of any other terms or conditions.
+</p>
+
           </div>
         </div>
       </div>
