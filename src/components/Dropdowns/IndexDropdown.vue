@@ -33,12 +33,12 @@
       >
         About Us
       </router-link>
-      <router-link
-        to="/general/contact-us"
+      <a
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
+        href="https://web.openspace.social/a/request-invite"
       >
-        Sign-up / Contact Us
-      </router-link>
+        Sign-Up
+      </a>
       <router-link
         to="/general/why-us"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
