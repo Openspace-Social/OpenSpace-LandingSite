@@ -11,10 +11,10 @@
             </p>
             <div class="p-4">
               <h2 class="font-semibold text-4xl text-blueGray-600">
-              Request a sign-up token by using the form below
+              Contact Us
               </h2>
               <div class="text-sm text-gray-600 mb-6">
-                If you want to signup to Openspace for the web, please fill out the details below along with a brief message and we will get back to you as soon as possible!
+                If you want help signing up to Openspace.Social, or have want to get in contact with us for any reason, then please fill out the details below along with a brief message and we will get back to you as soon as possible!
               </div>
             </div>
           </div>
