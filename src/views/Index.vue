@@ -16,6 +16,8 @@
             <h2 class="font-semibold text-4xl text-blueGray-600">
               Openspace.Social
             </h2>
+            <p class="mt-4 text-lg leading-relaxed text-blueGray-500"><strong>PROUDLY CANADIAN</strong></p>
+
             <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
               Experience the power of community-driven, ethically centered social media, where your voice matters, your privacy is secured and connections flourish.
               <br><br>Download from the app store today:<br>
@@ -67,6 +69,17 @@
                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
               >
                 <i class="fas fa-gavel text-xl"></i>
+            </div>
+
+            <h3 class="text-3xl mb-2 font-semibold leading-normal">A Social Shift: Why Canadians Are Looking Beyond U.S. Platforms</h3>
+            <div class="text-lg font-light leading-relaxed mt-8 mb-4 text-blueGray-600">
+                <p>
+                With growing trade tensions between Canada and the U.S., many Canadians are rethinking their reliance on American-owned social media platforms. Beyond geopolitical concerns, these platforms have long treated personal data as a commodity—harvesting your interests, behaviors, connections, and preferences for profit.<br><br>
+
+                Openspace.Social is different. Proudly Canadian, we prioritize your security and privacy over profit. Unlike mainstream platforms that collaborate with data brokers, we do not exploit your data. Choosing Openspace.Social means choosing a platform that respects your information and operates with transparency.
+
+                Join the movement toward a truly independent, privacy-focused social experience.
+                </p>
             </div>
             <h3 class="text-3xl mb-2 font-semibold leading-normal">
               Why use alternative platforms such as Openspace.Social?
