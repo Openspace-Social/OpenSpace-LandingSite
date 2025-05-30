@@ -65,6 +65,14 @@
               <ul class="list-unstyled">
                 <li>
                   <router-link
+                    to="/general/csae"
+                    class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                  >
+                    CSAE
+                  </router-link>
+                </li>
+                <li>
+                  <router-link
                     to="/general/terms-of-service"
                     class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                   >

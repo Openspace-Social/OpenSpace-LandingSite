@@ -28,6 +28,7 @@ import Blog from "@/views/general/blog.vue";
 import Terms from "@/views/general/terms-of-service.vue";
 import Guidelines from "@/views/general/community-guidelines.vue";
 import Privacy from "@/views/general/privacy-policy.vue";
+import CSAE from "@/views/general/csae.vue";
 //
 //// views for Roadmap layout
 //
@@ -87,6 +88,11 @@ const routes = [
     name: 'Privacy',
     component: Privacy,
   },
+  {
+      path: "/general/csae",
+      name: 'CSAE',
+      component: CSAE,
+    },
   {
     path: "/roadmap/whats-next",
     name: 'WhatsNext',
