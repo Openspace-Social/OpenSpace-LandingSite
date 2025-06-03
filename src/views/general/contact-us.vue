@@ -38,35 +38,7 @@
             <!-- component -->
             <div class="flex items-center justify-center p-12">
               <div class="mx-auto w-full max-w-[550px]">
-                <form name="Contact-Us" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/general/thanks/">
-                    <input type="hidden" name="form-name" value="Contact-Us" />
-                    <input type="hidden" name="subject" value="Email inquiry from Openspace.Social" />
-                    <p hidden class="hidden">
-                    <label>
-                      Don’t fill this out if you’re human: <input name="bot-field" />
-                    </label>
-                  </p>
-                  <div class="mb-5">
-                    <p>
-                        <label class="mb-3 block text-base font-medium text-[#07074D]">Your Name: <input type="text" name="name" class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md" /></label>
-                    </p>
-                  </div>
-                  <div class="mb-5">
-                    <p>
-                      <label class="mb-3 block text-base font-medium text-[#07074D]">Your Email: <input type="email" name="email" class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md" /></label>
-                    </p>
-                  </div>
-                  <div class="mb-5">
-                    <p>
-                        <label class="mb-3 block text-base font-medium text-[#07074D]">Message: <textarea name="message" class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"></textarea></label>
-                    </p>
-                  </div>
-                  <div>
-                      <p>
-                        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">SEND</button>
-                      </p>
-                  </div>
-                </form>
+                <p> Have questions? email us at admin@openspacelive.com</p>
               </div>
             </div>
 
