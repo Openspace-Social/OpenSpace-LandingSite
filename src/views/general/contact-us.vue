@@ -14,7 +14,10 @@
               Contact Us
               </h2>
               <div class="text-sm text-gray-600 mb-6">
-                If you want help signing up to Openspace.Social, or have want to get in contact with us for any reason, then please fill out the details below along with a brief message and we will get back to you as soon as possible!
+                <p>If you want help signing up to Openspace.Social, or have want to get in contact with us for any reason, then please fill out the details below along with a brief message and we will get back to you as soon as possible!</p>
+
+                <p> Have questions? email us at admin@openspacelive.com</p>
+
               </div>
             </div>
           </div>
@@ -38,7 +41,6 @@
             <!-- component -->
             <div class="flex items-center justify-center p-12">
               <div class="mx-auto w-full max-w-[550px]">
-                <p> Have questions? email us at admin@openspacelive.com</p>
               </div>
             </div>
 
