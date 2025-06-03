@@ -15,7 +15,7 @@
               </h2>
               <div class="text-sm text-gray-600 mb-6">
                 <p>If you want help signing up to Openspace.Social, or have want to get in contact with us for any reason, then please fill out the details below along with a brief message and we will get back to you as soon as possible!</p>
-
+                <br />
                 <p> Have questions? email us at admin@openspacelive.com</p>
 
               </div>
